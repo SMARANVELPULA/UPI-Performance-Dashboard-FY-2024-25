@@ -98,7 +98,7 @@ The dashboard is designed to be user-friendly and intuitive, making it easy for 
 
 Clone this repository 📂
 
-git clone https://github.com/yourusername/upi-performance-dashboard.git
+git clone https://github.com/SMARANVELPULA/upi-performance-dashboard.git
 
 Open the CSV file (upi_stats.csv) to explore raw structured data
 
