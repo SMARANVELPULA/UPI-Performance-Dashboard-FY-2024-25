@@ -3,6 +3,10 @@
 UPI Performance Dashboard 🇮🇳
 A comprehensive analysis of UPI transactions in India, providing insights into the digital payments landscape. This dashboard offers a bird's-eye view of the UPI ecosystem, helping to understand the key players and trends shaping the future of digital finance in the country. This project is essential for anyone interested in the Indian fintech scene, from students and researchers to business professionals and policymakers.
 
+
+
+![image alt](https://github.com/SMARANVELPULA/UPI-Performance-Dashboard-FY-2024-25/blob/667d03f684307eee971084b0e244255174956d46/Screenshot%202025-08-19%20152909.png)
+
 **🛠️ Tools Used**
 This project was brought to life using a combination of powerful tools:
 
